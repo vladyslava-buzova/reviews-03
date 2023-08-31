@@ -1,6 +1,6 @@
 ## Figma URL
 
-[Reviews](https://www.figma.com/file/e8L2QiR4GVTa5cGuRpXtk3/Reviews?node-id=0%3A1&t=gcCYcePiKxnkJ9kH-1)
+[Reviews](https://www.figma.com/file/6v1ewKJqclyOaIRPPinzjv/Reviews?type=design&node-id=0-1&mode=design&t=dK9QPwqkh2U57gSA-0)
 
 ## Steps
 
