@@ -1,5 +1,5 @@
 ## React Project "Reviews"
-[Project](https://vladyslava-buzova.github.io/reviews-03/)
+[ProjectLink](https://vladyslava-buzova.github.io/reviews-03/)
 
 ## Figma URL
 [Reviews](https://www.figma.com/file/fDTi6NHHxg2HV0YGlYN2fZ/Reviews?type=design&node-id=0-1&mode=design&t=9F517Xhmq367vRAD-0)
